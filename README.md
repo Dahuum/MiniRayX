@@ -1,4 +1,4 @@
-# MiniRT  
+# MiniRT    
 ```javascript
 const MiniRT = {
   "description": "minimalist ray tracer implementation in C",
