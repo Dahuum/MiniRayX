@@ -5,7 +5,7 @@ const MiniRT = {
   "features": ["Ray tracing", "3D Objects", "Lighting", "Shadows"],
   "objects": ["Sphere", "Plane", "Cylinder"],
   "usage": "cd miniRT && make && ./miniRT scenes/box.rt",
-  "dependencies": ["MinilibX", "Math Library"]
+  "dependencies": ["MinilibX", "Math Library"] 
 }
 ```
 <div align="center">
